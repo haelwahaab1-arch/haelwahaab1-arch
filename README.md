@@ -1,4 +1,3 @@
-<div align="center">
 🔴 YAHYA System - Zero-Operator AI Company
 أول منظومة حوكمة رقمية ذاتية الإدارة بالكامل (Autonomous Digital Organism)
 Deployment

@@ -1,35 +1,24 @@
-⚖️ منظومة يَحْيَى (YAHYA SYSTEM)
-إطار عمل الحوكمة الأخلاقية والعدالة الخوارزمية (Ethical AI Governance & Digital Justice Framework)
-Founder
-📖 نظرة عامة (Overview)
-منظومة يَحْيَى هي طبقة حوكمة برمجية-قانونية (Meta-Governance Layer) مصممة للاندماج مع أنظمة الذكاء الاصطناعي وصنع القرار الآلي. تهدف المنظومة إلى القضاء على "التطفيف الرقمي" والرفض المبهم، من خلال إعادة السيادة البشرية وحماية الكرامة الإنسانية من قرارات الخوارزميات (الصندوق الأسود).
-المنظومة مستوحاة من القيم القرآنية للعدل المطلق، وتتوافق مع أحدث القوانين الدولية لتنظيم الذكاء الاصطناعي (مثل EU AI Act).
-🎯 المشكلة التي نحلها (The Problem)
-تعاني المؤسسات والمستخدمون اليوم من "المحكمة الرقمية الغائبة":
-1.	الرفض الصامت: ملايين الطلبات (توظيف، قروض، خدمات) تُرفض يومياً بضغطة زر دون تفسير.
-2.	التحيز الخفي (Bias): خوارزميات تميز ضد فئات معينة بناءً على الموقع الجغرافي، أو بيانات التدريب التاريخية.
-3.	غياب المساءلة: صعوبة مساءلة "الكود" قانونياً عند وقوع ظلم رقمي.
-⚙️ بروتوكول يَحْيَى (The A.E.R Protocol)
-تعتمد منظومة يَحْيَى على بروتوكول ثلاثي الأبعاد يُعرف بـ A.E.R:
-1. التدقيق (Audit - الميزان)
-فحص القرار الخوارزمي قبل صدوره لتفكيك "الصندوق الأسود". يقوم النظام برصد أي أوزان تمييزية أو تحيزات غير عادلة (جغرافية، عرقية، اجتماعية) وإبطال مفعولها، لضمان أن التقييم يعتمد حصرياً على الجدارة والعمل.
-2. التفسير (Explain - التبيان)
-ترجمة قرارات الآلة المبهمة إلى أسباب منطقية، قانونية، ومكتوبة بلغة إنسانية رحيمة. المستخدم يجب أن يعرف لماذا تم اتخاذ القرار.
-3. الإحياء (Revival - إحياء الفرص)
-وهو المبدأ الحاكم: لا يوجد "رفض نهائي" في منظومة يَحْيَى.
-كل قرار سلبي يجب أن يُرفق بـ "خارطة طريق" (Roadmap) توضح للمستخدم الخطوات العملية الدقيقة المطلوبة لتحويل الرفض إلى قبول.
-🏗️ المعمار التقني (Technical Architecture)
-المشروع يتضمن حالياً وحدات واجهة المستخدم (UI Modules) التي تحاكي عملية الحوكمة:
-• yahya_revival_engine.jsx: محرك الإحياء الأساسي ومحاكاة دورة حياة الطلب.
-• yahya_audit_module.jsx: واجهة تفكيك الخوارزميات وتطهير الكود من التحيز.
-(تم بناء هذه النماذج الأولية باستخدام React & TailwindCSS)
-⚖️ التوافق القانوني والسيادي
-• يدمج مبدأ Human-in-the-Loop (HITL) لضمان بقاء السلطة الأخلاقية بيد الإنسان.
-• يوفر حماية استباقية للمؤسسات ضد دعاوى التمييز الخوارزمي.
-• يعزز الامتثال لقوانين حماية البيانات والشفافية الرقمية.
-👨‍💻 المعماري الفكري (The Architect)
-هشام عبد الوهاب (Hisham Abdelwahab)
-• محامٍ وباحث في حوكمة التقنية (AI Governance & Legal Researcher).
-• مؤسس منظومة يَحْيَى وصاحب الرؤية الفكرية والتشريعية لـ "ميثاق الإنسان والآلة".
-• GitHub Profile
-﴿لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ﴾ [الحديد: 25]
+# ⚖️ Hisham Abd Elwahhab
+### AI Governance Architect | LegalTech Systems Engineer | Founder of YAHYA & Mizan
+
+> Building the first autonomous legal infrastructure that replaces traditional workflows with sovereign, ethical AI.
+
+I don't build chatbots. I build **Enforceable AI Systems** that merge Civil Law + AI to create governance that actually holds in court.
+
+[![Mizan Live](https://img.shields.io/badge/Mizan-Live_Demo-black?style=for-the-badge)](https://mizan-app.vercel.app)
+[![YAHYA Engine](https://img.shields.io/badge/YAHYA-Engine-blue?style=for-the-badge)](https://github.com/haelwahaab1-arch/YAHYA-SYSTEM-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hisham-abdelwahhab)
+
+---
+
+### 🚀 Core Systems - Not Side Projects
+
+#### 1. ⚖️ MIZAN - AI Contract Intelligence
+The first Arabic-first legal AI that analyzes, risks-scores, and automates contracts.
+- **Problem:** 80% of SMEs in MENA sign unfair contracts they don't understand.
+- **Solution:** OCR + Gemini 1.5 Pro + YAHYA Governance Layer = Contract risk in 30 seconds.
+- **Stack:** Next.js 14, NestJS, PostgreSQL, Redis, Gemini API
+- **Status:** Live Beta - [Try it here](https://mizan-app.vercel.app)
+
+#### 2. 🧠 YAHYA Governance Engine - The Ethical Firewall for AI
+Gemini is powerful, but it's a black box. YAHYA is the enforcement layer on top.
